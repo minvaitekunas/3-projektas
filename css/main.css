@@ -1,4 +1,17 @@
 body {
     background-color: yellow;
 
+}main {
+    display: inline-block;
+    width: 800px;
+
+}
+div:first-of-type {
+
+
+}
+
+div:last-of-type {
+
+
 }
